@@ -420,3 +420,107 @@ Received Import Request.
 Start importing Assets/Shaders/URP AR Shadow Receiver.mat using Guid(69b403a40f511fc42b0bf770923a20ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1d3ec7134ca4d321c9632d6496cc8ec') in 0.128512 seconds 
   Import took 0.133592 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 248.472472 seconds.
+  path: Assets/Prefabs/Objects To Place/Prefabs To Place/Armchair Footrest.prefab
+  artifactKey: Guid(04730fc71fca5b344af231f9b61dc0ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Objects To Place/Prefabs To Place/Armchair Footrest.prefab using Guid(04730fc71fca5b344af231f9b61dc0ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a77bf5346f31bedc3c451cb0295ec81') in 0.285285 seconds 
+  Import took 0.292310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Prefabs/Objects To Place/Prefabs To Place/Armchair.prefab
+  artifactKey: Guid(76aa840e9c142764ab2925d67642340f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Objects To Place/Prefabs To Place/Armchair.prefab using Guid(76aa840e9c142764ab2925d67642340f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fa90babf973f60f5d9f5a5e254b283f') in 0.225592 seconds 
+  Import took 0.230842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Prefabs/Objects To Place/Prefabs To Place/Table Round.prefab
+  artifactKey: Guid(512348bbbe50b274f92b4afc7ff9fec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Objects To Place/Prefabs To Place/Table Round.prefab using Guid(512348bbbe50b274f92b4afc7ff9fec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e38522841feaaa89d3a62c01b3fc081') in 0.246991 seconds 
+  Import took 0.287236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Prefabs/Objects To Place/Prefabs To Place/Table Oval.prefab
+  artifactKey: Guid(6d31f6cb1d6853647be593dd9e7cf29b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Objects To Place/Prefabs To Place/Table Oval.prefab using Guid(6d31f6cb1d6853647be593dd9e7cf29b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04c3c963823cfc1f3c9dfe3f607a641f') in 0.291790 seconds 
+  Import took 0.297423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Prefabs/Objects To Place/Prefabs To Place/Table Square.prefab
+  artifactKey: Guid(c1c1fa54e89f1fc4fbcea719194db705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Objects To Place/Prefabs To Place/Table Square.prefab using Guid(c1c1fa54e89f1fc4fbcea719194db705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa43b7e16307af13bbaf845587f1d9fd') in 0.320174 seconds 
+  Import took 0.325179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.958619 seconds.
+  path: Assets/Prefabs/Objects To Place/Prefabs To Place/Armchair Footrest.prefab
+  artifactKey: Guid(04730fc71fca5b344af231f9b61dc0ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Objects To Place/Prefabs To Place/Armchair Footrest.prefab using Guid(04730fc71fca5b344af231f9b61dc0ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab5066fcab90cc8fc3030982a984bd9a') in 0.224300 seconds 
+  Import took 0.230086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.832092 seconds.
+  path: Assets/Prefabs/Objects To Place/Prefabs To Place/Armchair.prefab
+  artifactKey: Guid(76aa840e9c142764ab2925d67642340f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Objects To Place/Prefabs To Place/Armchair.prefab using Guid(76aa840e9c142764ab2925d67642340f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c62d7c75eb5537fc40a72fb1b9030eb') in 0.392099 seconds 
+  Import took 0.397922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.018207 seconds.
+  path: Assets/Prefabs/Objects To Place/Prefabs To Place/Table Oval.prefab
+  artifactKey: Guid(6d31f6cb1d6853647be593dd9e7cf29b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Objects To Place/Prefabs To Place/Table Oval.prefab using Guid(6d31f6cb1d6853647be593dd9e7cf29b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1dedc398cdcad372fdd8221c2a35844') in 0.214733 seconds 
+  Import took 0.220719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.314097 seconds.
+  path: Assets/Prefabs/Objects To Place/Prefabs To Place/Table Round.prefab
+  artifactKey: Guid(512348bbbe50b274f92b4afc7ff9fec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Objects To Place/Prefabs To Place/Table Round.prefab using Guid(512348bbbe50b274f92b4afc7ff9fec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1de31f95702157b8fc701b9548f73ef8') in 0.232910 seconds 
+  Import took 0.238563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 104.592315 seconds.
+  path: Assets/Prefabs/Objects To Place/Prefabs To Place/Table Square.prefab
+  artifactKey: Guid(c1c1fa54e89f1fc4fbcea719194db705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Objects To Place/Prefabs To Place/Table Square.prefab using Guid(c1c1fa54e89f1fc4fbcea719194db705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '210fc8feafa0cede8e223ef38a69c529') in 0.256989 seconds 
+  Import took 0.263302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006653 seconds.
+  path: Assets/Prefabs/Objects To Place/Prefabs To Place/Table Square.prefab
+  artifactKey: Guid(c1c1fa54e89f1fc4fbcea719194db705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Objects To Place/Prefabs To Place/Table Square.prefab using Guid(c1c1fa54e89f1fc4fbcea719194db705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '210fc8feafa0cede8e223ef38a69c529') in 0.223958 seconds 
+  Import took 0.229474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.260665 seconds.
+  path: Assets/Scripts/Touch System
+  artifactKey: Guid(3d459bef8d5653840b252af4b9b48ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Touch System using Guid(3d459bef8d5653840b252af4b9b48ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41e8250ddb03b71e567d7ae95a084797') in 0.007289 seconds 
+  Import took 0.012466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.069665 seconds.
+  path: Assets/Scripts/Touch System/Touch Controls.inputactions
+  artifactKey: Guid(957a9e8acb98b0449b4f517fad86b54f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Touch System/Touch Controls.inputactions using Guid(957a9e8acb98b0449b4f517fad86b54f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ec4c03f19367851dfc31fa11fd1d966') in 0.084869 seconds 
+  Import took 0.090499 seconds .
+

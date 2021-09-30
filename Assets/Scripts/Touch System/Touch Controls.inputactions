@@ -1,0 +1,209 @@
+{
+    "name": "Touch Controls",
+    "maps": [
+        {
+            "name": "Rotate",
+            "id": "1726b7cd-d12c-4cc9-bdf7-a1157e3bf6a7",
+            "actions": [
+                {
+                    "name": "Primary Finger Position",
+                    "type": "Value",
+                    "id": "507746ad-1836-4dca-89a5-234209fe918a",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Secondary Touch Detect",
+                    "type": "Value",
+                    "id": "b1ec2e79-275e-4ee6-80d4-7227957d8c40",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6d23bdfe-63e5-4e65-b928-0d477a7ad5a8",
+                    "path": "<Touchscreen>/primaryTouch/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Primary Finger Position",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1256b889-625e-42a0-b318-fbee5d5a5ea8",
+                    "path": "<Touchscreen>/primaryTouch/press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Secondary Touch Detect",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "DoubleTap",
+            "id": "a870f123-9dab-4b49-b582-d60796f43f6a",
+            "actions": [
+                {
+                    "name": "Tap",
+                    "type": "PassThrough",
+                    "id": "e40ac65d-bba0-4c1c-95a9-19d0766e8a43",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "MultiTap"
+                },
+                {
+                    "name": "Position",
+                    "type": "Value",
+                    "id": "bc638955-22b7-4d78-b355-73a1df0f4ff8",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "76d9601d-185e-4d1d-a4fe-9428287602aa",
+                    "path": "<Touchscreen>/primaryTouch/tap",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Tap",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f59fcf81-c1d1-41e2-949f-dfc58fc9d233",
+                    "path": "<Touchscreen>/primaryTouch/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Position",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Scale",
+            "id": "23784e3e-9e95-483f-ab70-1ecc61342a97",
+            "actions": [
+                {
+                    "name": "Primary Finger Position",
+                    "type": "Value",
+                    "id": "b6ca9dba-f379-498f-9af9-afedc34813bd",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Secondary Finger Position",
+                    "type": "Value",
+                    "id": "3209471b-011d-4866-a3f9-35a395c4339d",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Secondary Touch Detect",
+                    "type": "Button",
+                    "id": "bb71f44a-b5e3-4a0e-b93a-8b24882b94ee",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press"
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "74ab461e-9a6f-43f6-805a-8ed07522cfdb",
+                    "path": "<Touchscreen>/touch1/press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Secondary Touch Detect",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "523a9424-72bf-403f-8e9f-fc5476e43289",
+                    "path": "<Touchscreen>/touch1/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Secondary Finger Position",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "09708404-3716-4b44-a5a1-0ecadf2bb7e8",
+                    "path": "<Touchscreen>/touch0/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Primary Finger Position",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Drag",
+            "id": "b4d0501a-8390-4b58-bb06-4e20575cb3f3",
+            "actions": [
+                {
+                    "name": "Primary Finger Position",
+                    "type": "Value",
+                    "id": "e948031f-012a-45c9-a05a-b80d014fd2c1",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Secondary Touch Detect",
+                    "type": "Value",
+                    "id": "2cf0585c-a0eb-43e4-87db-2a201705678f",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "Hold(duration=1,pressPoint=0.8),Press(behavior=1)"
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "5b63467f-2cc9-4302-b7da-213d9a7e4705",
+                    "path": "<Touchscreen>/primaryTouch/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Primary Finger Position",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "def0fa40-f433-41c6-9e67-a90745067a30",
+                    "path": "<Touchscreen>/primaryTouch/press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Secondary Touch Detect",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
